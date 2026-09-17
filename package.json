@@ -1,0 +1,8 @@
+{
+  "name": "dtd-vacp-masterclass",
+  "version": "1.0.0",
+  "description": "DTD and VACP Executive Masterclass",
+  "scripts": {
+    "start": "serve ."
+  }
+}
